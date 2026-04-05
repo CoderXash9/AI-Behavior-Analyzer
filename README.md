@@ -1,5 +1,8 @@
 # 💀 AI Behavior Analyzer
 
+## 📸 Demo
+https://github.com/CoderXash9/AI-Behavior-Analyzer/blob/96c12e07129f0cf289ba781eef32727ef9698ddf/demo.png
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv">
@@ -78,13 +81,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
-
-## 📸 Demo
-
-🎥 *Add your demo video or GIF here*
-
----
 
 ## 💡 Use Cases
 
