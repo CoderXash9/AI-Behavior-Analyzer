@@ -1,7 +1,8 @@
 # 💀 AI Behavior Analyzer
 
 ## 📸 Demo
-https://github.com/CoderXash9/AI-Behavior-Analyzer/blob/96c12e07129f0cf289ba781eef32727ef9698ddf/demo.png
+
+![Demo](demo.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
